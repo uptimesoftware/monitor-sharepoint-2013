@@ -2,7 +2,7 @@
 {
   "category": "Applications - General",
   "supported_versions": [
-    "7.3"
+  "7.3"
   ],
   "name": "SharePoint 2013",
   "git_file_target": "https://github.com/uptimesoftware/monitor-sharepoint-2013/raw/master/dist/monitor-sharepoint-2013.zip",
@@ -10,12 +10,12 @@
   "upgrade_in_place": true,
   "requires_additional_setup": false,
   "requires_agent_scripts": false,
-  "version": "0.5",
+  "version": "1.1",
   "supported_platforms": [
-    "windows"
+  "windows"
   ],
-  "grid_url_target": "http://the-grid.uptimesoftware.com/",
+  "grid_url_target": "http://the-grid.uptimesoftware.com/plugin/monitor-sharepoint-2010.html",
   "type": "plugin",
-  "description": "Monitor Sharepoint 2013 Performance"
+"description": "Monitor Sharepoint 2013 Performance"
 }
 ]
