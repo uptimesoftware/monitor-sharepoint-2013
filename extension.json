@@ -1,0 +1,21 @@
+[
+{
+  "category": "Network Service Monitors",
+  "supported_versions": [
+    "7.3"
+  ],
+  "name": "SharePoint 2013",
+  "git_file_target": "https://github.com/uptimesoftware/monitor-sharepoint-2013/raw/master/dist/monitor-sharepoint-2013.zip",
+  "icon_url": "http://the-grid.uptimesoftware.com/img/posts/placeholder-logo.png",
+  "upgrade_in_place": true,
+  "requires_additional_setup": false,
+  "requires_agent_scripts": false,
+  "version": "0.5",
+  "supported_platforms": [
+    "windows",
+  ],
+  "grid_url_target": "http://the-grid.uptimesoftware.com/",
+  "type": "plugin",
+  "description": "Monitor Sharepoint 2013 Performance"
+}
+]
