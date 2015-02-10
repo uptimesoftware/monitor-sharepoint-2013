@@ -12,7 +12,7 @@
   "requires_agent_scripts": false,
   "version": "0.5",
   "supported_platforms": [
-    "windows",
+    "windows"
   ],
   "grid_url_target": "http://the-grid.uptimesoftware.com/",
   "type": "plugin",
