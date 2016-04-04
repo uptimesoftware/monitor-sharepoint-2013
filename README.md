@@ -9,7 +9,7 @@ plugin
 
 ### Version Compatibility
 
-* SharePoint 2013 Monitor 1.1 - 7.3,7.5,7.6
+* SharePoint 2013 Monitor 1.1 - 7.3,7.5,7.6,7.7
   
 
 ### Description
@@ -17,7 +17,7 @@ This plugin monitors the performance of SharePoint 2013. This is only supported 
 
 ### Supported Monitoring Stations
 
-7.3,7.5,7.6 Windows Only
+7.3,7.5,7.6,7.7 Windows Only
 
 ### Supported Agents: None
 
